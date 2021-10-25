@@ -9,6 +9,10 @@
 
 ## 12.94.1 (2021/10/25)
 
+### Features
+- Added a user-level instance mute in user settings
+- Added a toggle to show replies for followed users in all timelines
+
 ### Improvements
 
 ### Bugfixes
@@ -155,7 +159,6 @@
 ## 12.89.1 (2021/08/24)
 
 ### Features
-- Added a user-level instance mute in user settings
 
 ### Improvements
 - クライアントのデザインの調整
